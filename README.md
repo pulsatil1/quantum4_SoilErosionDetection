@@ -1,2 +1,2 @@
-# quantum4_SoilErrosionDetection
+# quantum4_SoilErosionDetection
 Soil erosion detection
