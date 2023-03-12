@@ -1,3 +1,5 @@
-To solve the problem of detecting soil erosion, we need a large amount of marked-up data, and the data must be collected under similar climatic and weather conditions. 
+To solve the problem of detecting soil erosion, we need a large amount of marked-up data, and the data must be collected under similar climatic and weather conditions.
+
 Machine learning models can be applied both to predict the risk of soil erosion and to identify the factors that contribute to this process. One of the functions of a model may be to recognize soil type. And the analysis of soil erosion risk will be done only for certain soil types.
+
 Since the process of detecting soil erosion can be classified as a data segmentation problem, it may be worth trying to use a U-Net architecture or a similar one. Also, a GAN architecture should be good for such a task.
